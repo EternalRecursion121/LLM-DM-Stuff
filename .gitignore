@@ -4,3 +4,4 @@ discord/
 ideas/
 whatsapp/
 .env
+.DS_Store
